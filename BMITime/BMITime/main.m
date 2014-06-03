@@ -28,7 +28,7 @@ int main(int argc, const char * argv[])
 
         NSLog(@"BMI of %.2f, has worked with us for %.2f years", [miley bodyMassIndex], [miley yearsOfEmployment]);
         
-        sleep(100000);
+        //sleep(100000);
         
     }
     return 0;
